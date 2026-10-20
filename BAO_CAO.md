@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI THỰC HÀNH 03 – REFACTORING (GILDED ROSE)
 
 - **Môn học:** Thiết kế, phát triển và bảo trì phần mềm
-- **Họ và tên:** ………………………………
-- **MSSV / Lớp:** ………………………………
+- **Họ và tên:** Ngo Truong Giang
+- **MSSV / Lớp:** DPM235413
 - **Công cụ:** Visual Studio 2022, .NET 8, C#, xUnit, Git
 
 ---
@@ -90,7 +90,7 @@ Bộ test xUnit (`GildedRoseTests/GildedRoseTest.cs`) gồm:
 - Kiểm tra Factory trả đúng loại updater.
 - Test đặc tả so sánh code mới với code cũ (1 ngày và 60 ngày).
 
-**Kết quả chạy test:** *(dán ảnh chụp cửa sổ Test Explorer sau khi chạy Run All Tests tại đây)*
+**Kết quả chạy test:**" 34/34 test đạt (34 Passed, 0 Failed)" ![Kết quả chạy test](kq_test.png)
 
 ## 7. Kết luận
 
